@@ -44,7 +44,7 @@ Spring Data JPA
 
 MySQL
 
-Spring Security (if applicable)
+
 
 Frontend:
 
